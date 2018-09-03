@@ -1,0 +1,4 @@
+suites:
+    acme_suite:
+        namespace: SamBurns\ThisIsBud
+        psr4_prefix: SamBurns\ThisIsBud
