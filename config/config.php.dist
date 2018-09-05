@@ -1,0 +1,6 @@
+<?php
+return [
+    'client_id' => 'clientid',
+    'client_secret' => 'clientsecret',
+    'api_domain' => '​https://death.star.api'
+];
