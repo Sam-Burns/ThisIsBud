@@ -1,6 +1,6 @@
-#Bud Code Kata
+# Bud Code Kata
 
-##Running Tests
+## Running Tests
 
 PHP 7.2 is needed, and Composer must be run first with `composer install`.
 
@@ -16,7 +16,7 @@ Integration tests for API client:
 ./vendor/bin/phpunit
 ```
 
-##Application Architecture
+## Application Architecture
 
 The Oauth2 integration uses `league/oauth2-client`. It is in `src/Oauth2`.
 
