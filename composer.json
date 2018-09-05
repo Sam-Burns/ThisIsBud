@@ -9,13 +9,13 @@
 
     "require": {
         "php": "7.2.*",
-        "league/oauth2-client": "^2.3"
+        "league/oauth2-client": "^2.3",
+        "pimple/pimple": "^3.2"
     },
 
     "require-dev": {
         "phpspec/phpspec": "^5.0",
-        "phpunit/phpunit": "^7.3",
-        "pimple/pimple": "^3.2"
+        "phpunit/phpunit": "^7.3"
     },
 
     "autoload": {
